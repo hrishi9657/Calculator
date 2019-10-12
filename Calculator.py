@@ -10,10 +10,10 @@ def multiply(x, y):
 def divide(x, y):
    return x / y
 print("Select operation.")
-print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
+print("1.Add the numbers")
+print("2.Subtract the numbers")
+print("3.Multiply the numbers")
+print("4.Divide the numbers")
 # Take input from the user 
 choice = input("Enter choice(1/2/3/4):")
 num1 = int(input("Enter first number: "))
